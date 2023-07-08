@@ -4,23 +4,23 @@ import React from "react";
 const Gallery = () => {
   const images = [
     {
-      link: "https://themewagon.github.io/brber/assets/img/gallery/gallery1.png",
+      link: "/gallery/gallery1.png",
       classStyle: "lg:w-full  p-1 md:p-2  ",
     },
     {
-      link: "	https://themewagon.github.io/brber/assets/img/gallery/gallery2.png",
+      link: "/gallery/gallery2.png",
       classStyle: "lg:w-full p-1 md:p-2",
     },
     {
-      link: "https://themewagon.github.io/brber/assets/img/gallery/gallery3.png",
+      link: "/gallery/gallery3.png",
       classStyle: "lg:w-full  p-1 md:p-2",
     },
     {
-      link: "	https://themewagon.github.io/brber/assets/img/gallery/gallery3.png",
+      link: "/gallery/gallery3.png",
       classStyle: "lg:w-full p-1 md:p-2",
     },
     {
-      link: "https://themewagon.github.io/brber/assets/img/gallery/gallery4.png",
+      link: "/gallery/gallery4.png",
       classStyle: "lg:w-full  p-1 md:p-2",
     },
   ];
